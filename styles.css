@@ -1,0 +1,54 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: chocolate;
+    background-color: aqua;
+}
+
+.li1,
+.li2,
+.li3 {
+    font-size: 30px;
+}
+
+.li1 {
+    color: black;
+    background-color: orange;
+    font-weight: bold;
+}
+
+.li2 {
+    color: yellow;
+    background-color: cornflowerblue;
+    font-weight: bold;
+}
+
+.li3 {
+    color: firebrick;
+    background-color: slategray;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+    background-color: black;
+}
+
+h3 {
+    color: forestgreen;
+    background-color: gold;
+}
+
+ul {
+    color: midnightblue;
+    background-color: silver;
+    font-weight: bold;
+}
+
+ol {
+    color: brown;
+    background-color: lavender;
+    font-weight: 900;
+}
